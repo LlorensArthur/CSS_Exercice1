@@ -1,0 +1,12 @@
+span.italic{
+    font-style: italic;
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 125%;
+}
+
+h1{
+    text-transform: lowercase;
+}
