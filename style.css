@@ -1,12 +1,53 @@
-span.italic{
-    font-style: italic;
+.box{
+    width: 100vw;
+    height: 0vh;
 }
-
-*{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 125%;
+.flexbox{
+    display: flex;
+    flex-direction: lign;
 }
-
-h1{
-    text-transform: lowercase;
+.green{
+    width: 70vw;
+    height: 10vh;
+    background-color: #2ecc71;
+}
+.blue{
+    width: 30vw;
+    height: 10vh;
+    background-color: #2980b9;
+}
+.red{
+    width: 30vw;
+    height: 40vh;
+    background-color: #e74c3c;
+}
+.orange{
+    width: 35vw;
+    height: 20vh;
+    background-color: #e67e22;
+}
+.grey{
+    width: 35vw;
+    height: 20vh;
+    background-color: #95a5a6;
+}
+.yellow{
+    width: 23vw;
+    height: 20vh;
+    background-color: #f39c12;
+}
+.turquoise{
+    width: 24vw;
+    height: 20vh;
+    background-color: #16a085;
+}
+.darkorange{
+    width: 23vw;
+    height: 20vh;
+    background-color: #d35400;
+}
+.black{
+    width: 100vw;
+    height: 40vh;
+    background-color: #2c3e50;
 }
